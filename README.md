@@ -23,7 +23,7 @@ Here are some of the technologies and tools I have experience with:
 
 ## GitHub Stats
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeminello&show_icons=true&theme=dark)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fminello&show_icons=true&theme=dark)
 
 ## Connect with Me
 

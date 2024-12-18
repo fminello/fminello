@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Felipe Minello 👋
 
-<!--
-**fminello/fminello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=felipeminello&color=blue)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate software developer with a keen interest in building scalable and efficient applications. I enjoy learning new technologies and continuously improving my coding skills.
+
+- 👨‍💻 Software Architect | Software Development Specialist
+- 🔧 Focused on creating scalable and robust solutions
+- 🌐 Passionate about modern technologies and best practices in software engineering
+- 📚 Always learning and sharing knowledge about system architecture and design patterns
+- ⚙️ Proficient in Architecture and Development of microservices systems
+
+## Skills
+
+Here are some of the technologies and tools I have experience with:
+
+- **Languages:** JavaScript, TypeScript, PHP, Python, Dart
+- **Frameworks:** Laravel, React, React Native, Flutter
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Kubernetes, AWS
+
+## GitHub Stats
+
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeminello&show_icons=true&theme=dark)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/minello)
